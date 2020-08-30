@@ -1,16 +1,15 @@
-### Hi there 👋
+# kr-tukimi
 
-<!--
-**kr-tukimi/kr-tukimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+皆さんこんにちは。
 
-Here are some ideas to get you started:
+kr-tukimi GitHubアカウントへようこそ。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+こちらではプログラミングからリペイントまで様々なバージョン管理のために使用しています。
+
+ご質問がありましたら、contact.kr.tukimi@gmail.com または https://twitter.com/kr_tukimi までご連絡ください。
+
+私に関してのプロフィールは下記サイトにまとめられております。
+
+ぜひご確認ください。
+
+https://kr-tukimi.github.io/
