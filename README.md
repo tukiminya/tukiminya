@@ -12,4 +12,4 @@ kr-tukimi GitHubアカウントへようこそ。
 
 ぜひご確認ください。
 
-https://kr-tukimi.github.io/
+https://kr-tukimi.com/
