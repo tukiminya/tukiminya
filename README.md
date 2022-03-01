@@ -1,15 +1,19 @@
-# kr-tukimi
+# Hi👋
 
-皆さんこんにちは。
+Hello!
 
-kr-tukimi GitHubアカウントへようこそ。
+Thanks for taking a look at my GitHub account!
 
-こちらではプログラミングからリペイントまで様々なバージョン管理のために使用しています。
+I'm a student in Japan, and a web developer.
 
-ご質問がありましたら、 https://twitter.com/kr_tukimi までご連絡ください。
+I've been developing mostly in private repositories, and I'm only correcting open source.
 
-私に関してのプロフィールは下記サイトにまとめられております。
+I'm thinking of doing open source development after I get some knowledge...!
 
-ぜひご確認ください。
+Nice to meet you!
 
-https://kr-tukimi.com/
+Twitter: [@kr_tukimi](https://twitter.com/kr_tukimi)<br>
+GitHub: [kr-tukimi](https://github.com/kr-tukimi)<br>
+Website: [kr-tukimi.com](https://kr-tukimi.com)
+
+<iframe src="https://kr-tukimi.instatus.com/embed-status/light-sm" width="230" height="61"  frameBorder="0" scrolling="no" style="border: none; margin-top: 2rem;" ></iframe>
