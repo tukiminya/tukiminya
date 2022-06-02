@@ -12,6 +12,10 @@ I'm thinking of doing open source development after I get some knowledge...!
 
 Nice to meet you!
 
+<div style="flex; margin: 3rem 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kr-tukimi&count_private=true">
+</div>
+
 Twitter: [@kr_tukimi](https://twitter.com/kr_tukimi)<br>
 GitHub: [kr-tukimi](https://github.com/kr-tukimi)<br>
 Website: [kr-tukimi.com](https://kr-tukimi.com)
