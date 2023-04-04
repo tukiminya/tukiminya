@@ -18,5 +18,5 @@ Nice to meet you!
 
 <img src="https://github-readme-stats.vercel.app/api?username=tukiminya&count_private=true">
 
-GitHub: [kr-tukimi](https://github.com/tukiminya)<br>
+GitHub: [tukiminya](https://github.com/tukiminya)<br>
 Website: [tuki.dev](https://tuki.dev)
