@@ -1,5 +1,9 @@
 # Hi👋
 
+> **Note**
+>
+> **Important notice:** I have recently changed my username `kr-tukimi` to `tukiminya`.
+
 Hello!
 
 Thanks for taking a look at my GitHub account!
@@ -12,8 +16,7 @@ I'm thinking of doing open source development after I get some knowledge...!
 
 Nice to meet you!
 
-<img src="https://github-readme-stats.vercel.app/api?username=kr-tukimi&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=tukiminya&count_private=true">
 
-Twitter: [@kr_tukimi](https://twitter.com/kr_tukimi)<br>
-GitHub: [kr-tukimi](https://github.com/kr-tukimi)<br>
+GitHub: [kr-tukimi](https://github.com/tukiminya)<br>
 Website: [tuki.dev](https://tuki.dev)
