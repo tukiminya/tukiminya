@@ -1,9 +1,5 @@
 # Hi👋
 
-> **Note**
->
-> **Important notice:** I have recently changed my username `kr-tukimi` to `tukiminya`.
-
 Hello!
 
 Thanks for taking a look at my GitHub account!
