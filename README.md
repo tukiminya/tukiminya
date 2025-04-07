@@ -12,7 +12,5 @@ I'm thinking of doing open source development after I get some knowledge...!
 
 Nice to meet you!
 
-<img src="https://github-readme-stats-chi-nine-97.vercel.app/api?username=tukiminya&count_private=true">
-
 GitHub: [tukiminya](https://github.com/tukiminya)<br>
 Website: [tuki.dev](https://tuki.dev)
